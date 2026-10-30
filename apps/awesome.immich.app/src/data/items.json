@@ -269,6 +269,13 @@
         "description": "Desktop photo manager for macOS, Windows and Linux. Import from a memory card, cull, rate and edit RAW files, then mirror photos and albums to Immich in the background. Semantic search runs locally.",
         "sourceCodeUrl": "https://github.com/pasqualkreher/rollfilm",
         "tags": ["Vibe-Coded"]
+      },
+      {
+        "title": "SD Sync Immich",
+        "description": "A cross-platform app for macOS, Windows, and Linux that quickly syncs photos from your SD card to Immich.",
+        "websiteUrl": "https://brofrong.github.io/sd-sync-immich/",
+        "sourceCodeUrl": "https://github.com/brofrong/sd-sync-immich",
+        "tags": ["Vibe-Coded"]
       }
     ]
   },
